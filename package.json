@@ -1,0 +1,23 @@
+{
+  "name": "@omneedia/jsuck",
+  "version": "0.0.6",
+  "description": "Streaming (optionally) newline/whitespace delimited JSON parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/jsuck.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "stream",
+    "newline",
+    "split",
+    "whitespace"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "dependencies": {
+    "clarinet": "~0.11.0"
+  }
+}
