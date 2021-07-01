@@ -1,0 +1,9 @@
+Host git.ionicjs.com
+    IdentityFile /Users/stephanezucatti/.ssh/ionic/32799
+#activehacker account
+
+Host github.com
+HostName github.com
+IdentityFile ~/.ssh/id_rsa
+User zucatti
+
